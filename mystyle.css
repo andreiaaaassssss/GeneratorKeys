@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+.origin{
+    color:rgb(255, 142, 37);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    margin-left: 40px;
+
+}
+.steam{
+    color: rgb(40, 114, 218);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+}
+.steam3Numar{
+    color: rgb(224, 60, 60);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+}
+.title{
+    
+        color: rgb(255, 255, 255);
+        text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+        font-family: 'Press Start 2P', cursive;
+        font-size: 30px;
+        margin-left: -80px;
+    
+}
+.steam5Numar{
+    color: rgb(67, 239, 113);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+   
+    
+}
+.CenterItems {
+    background: rgba(169, 115, 14, 0);
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 48%;
+    margin: -50px 0 0 -50px;
+    
+}
+
+input{
+    color:rgb(255, 255, 255);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    background: rgb(0, 0, 0);
+    border-radius: 30px;
+    border: none;
+    width: 45%;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+textarea
+{
+    color:rgb(255, 255, 255);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    background: rgb(91, 192, 93);
+    border-radius: 30px;
+    border: none;
+    width: 45%;
+    padding: 7px;
+    margin-bottom: 5px; 
+}
+::placeholder {
+    color: rgba(24, 210, 220, 0.609);
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: rgba(24, 210, 220, 0.609);
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: rgba(24, 210, 220, 0.609);
+  }
+  button{
+    color:rgb(255, 255, 255);
+    text-shadow:  1px 1px 1px  rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    background: rgb(0, 0, 0);
+    border-radius: 30px;
+    border: none;
+    width: 45%;
+    padding: 7px;
+    margin-bottom: 5px;
+  }
+  button:hover{
+   
+        color:rgb(0, 0, 0);
+      
+        background: rgb(255, 255, 255);
+   
+    
+  }
+  body{
+    background-image: url("https://cdn.discordapp.com/attachments/1049124683452252240/1049124703182274721/small-memory-4k_1551642806.jpg");
+    background-size: cover;
+  }
